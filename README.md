@@ -1,10 +1,6 @@
 # 超声胸腔积液智能分析 Agent
 # Ultrasound Pleural Effusion Intelligent Analysis Agent
 
-> **⚠️ 免责声明 / Disclaimer**  
-> 本项目仅供学术研究和技术演示使用，不能替代专业医师的临床诊断。  
-> This project is for academic research and technical demonstration only. It does **not** replace professional medical diagnosis.
-
 ---
 
 ## 项目简介 / Overview
