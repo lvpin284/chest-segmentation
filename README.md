@@ -21,7 +21,7 @@ This project implements a deep-learning-powered intelligent agent for analysing 
 ## 项目结构 / Project Structure
 
 ```
-chest-_segmentation/
+chest-segmentation/
 ├── src/
 │   ├── models/
 │   │   └── unet.py              # U-Net model + BCE+Dice loss
